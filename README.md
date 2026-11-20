@@ -1,5 +1,6 @@
 # Walking Distance Calculator
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/04305297-bd8a-4f75-8258-f8bad1a8082e" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/b3085462-dc52-4a01-84d3-ceece0670c6d" />
 
 This is a separate Android Studio project and app, independent of Activity Tracker.
 It converts walking duration to distance at an adjustable speed, and supports
